@@ -23,7 +23,6 @@
    - [Problem 2: Select geometric figures](#problem-2-select-geometric-figures)
    - [Problem 3: Select a font](#problem-3-select-a-font)
    - [Problem 4: Pattern recognition: consecutive four equal numbers](#problem-4-pattern-recognition-consecutive-four-equal-numbers)
-9. [Bibliography](#bibliography)
 
 ## Introduction
 Welcome to the JavaFX Projects repository! This document will guide you through a series of JavaFX projects designed to enhance your understanding and skills in JavaFX programming.
@@ -84,6 +83,3 @@ Develop a font selection tool.
 
 ### Problem 4: Pattern recognition: consecutive four equal numbers
 Implement a pattern recognition algorithm.
-
-## Bibliography
-List of resources and references used in the creation of these projects.
